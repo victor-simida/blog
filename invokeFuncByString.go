@@ -41,7 +41,7 @@ func main() {
 
 		params := make([]reflect.Value, 3)
 
-		params[0] = reflect.ValueOf(calc)
+		params[0] = reflect.ValueOf(calc)		//由于是类型方法，第一个param应当是类型本身
 		params[1] = reflect.ValueOf(a)
 		params[2] = reflect.ValueOf(b)
 
