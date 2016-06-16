@@ -2,6 +2,7 @@ package main
 import (
 	"time"
 	"fmt"
+	"strings"
 )
 
 /*******************************************
@@ -46,8 +47,8 @@ func main() {
 
 
 	s2 := time.Now()
-	for i := 1; i <= 2000; i ++ {
-		rst = pow2(999, 10000)
+	for i := 1; i <= 200000; i ++ {
+		rst = pow2(999, 1000000000000)
 	}
 	e2 := time.Now()
 	fmt.Println(e2.Sub(s2).Nanoseconds())

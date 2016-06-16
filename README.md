@@ -1,4 +1,10 @@
 # blog
-([invokeFuncByString.go](./invokeFuncByString.go))   :按照字符串调用函数
+([invokeFuncByString.go](./ReflectToInvoke/invokeFuncByString.go))   :按照字符串调用函数
 
-([pow.go](./pow.go))   :求若干次幂之精妙算法
+([pow.go](./Pow/pow.go))   :求若干次幂之精妙算法
+
+([quickSort.go](./QuickSort/quickSort.go))   :快速排序的快速实现
+
+([package.go](./PackageProblem/package.go))   :背包问题
+
+([pictureRead.go](./PictureConvert/pictureRead.go))   :图片转换为字符图片
