@@ -8,3 +8,7 @@
 ([package.go](./PackageProblem/package.go))   :背包问题
 
 ([pictureRead.go](./PictureConvert/pictureRead.go))   :图片转换为字符图片
+\
+([runtime.go](./runtime/runtime.go))   :golang获取cpu runtime max number
+
+([tripleDes.go](./TripleDES/tripleDes.go))   :3DES相关接口
