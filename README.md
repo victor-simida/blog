@@ -12,3 +12,7 @@
 ([runtime.go](./runtime/runtime.go))   :golang获取cpu runtime max number
 
 ([tripleDes.go](./TripleDES/tripleDes.go))   :3DES相关接口
+
+([DescreaseSubsequence.go](./DescreaseSubsequence/DescreaseSubsequence.go))   :最长递减子序列暴力解法
+
+([DescreaseSubsequence2.go](./DescreaseSubsequence/DescreaseSubsequence2.go))   :最长递减子序列另外一种解法
